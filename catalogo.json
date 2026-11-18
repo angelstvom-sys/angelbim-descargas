@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.21",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.21/Instalar.AngelBIM.0.2.21.exe",
-    "sha256": "E0DE91235D8A437DEBBA189706F696AE35943E96DBDA9F32021B5CF7F44F1953",
+    "version": "0.2.23",
     "name": "AngelBIM",
-    "notes": "Prueba del canal de actualizaciones de AngelBIM."
+    "sha256": "81B610079FBD5F8956F36FE0718FA313725153B155DBDC70C7BF7BAEA52EBC27",
+    "notes": "Prueba de instalación en un clic desde 0.2.22.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.23/Instalar.AngelBIM.0.2.23.exe"
   },
   "packs": []
 }
