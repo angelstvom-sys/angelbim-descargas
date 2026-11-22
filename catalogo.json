@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.69",
+    "version": "0.2.70",
     "name": "AngelBIM",
-    "sha256": "1E2921757679F8040D855604347A3E350FC59C4D706AEDC6B9A8F28FA02B687A",
-    "notes": "- Instalar admite confirmación con Enter y avisa explícitamente si Revit sigue abierto o si falla la instalación.\n- Guardar una lámina existente muestra la acción Reemplazar lámina en la cinta y el panel lateral.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.69/Instalar.AngelBIM.exe"
+    "sha256": "F3A556E2B0FCC90136E2880DDB97BBB4AFC480C2ADDBD4E1CF5FB61D37D0C152",
+    "notes": "- Guardar en AngelBIM copia la plantilla seleccionada directamente en la biblioteca, con sus datos guardados si los tiene.\n- Guardar lámina activa, en la cinta, guarda los cambios de la hoja o del cajetín que está abierto en Revit.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.70/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
