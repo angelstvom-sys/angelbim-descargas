@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.61",
+    "version": "0.2.62",
     "name": "AngelBIM",
-    "sha256": "8F211D083BFA61F5A81111EE02986C043C1634FA32A58EA38D72AF42EED9261E",
-    "notes": "- Configuración integrada en el panel lateral de Revit, con tema claro u oscuro y recarga de la biblioteca.\n- Revisión de categoría y colección antes de importar familias RFA o proyectos RVT.\n- Detección de archivos idénticos aunque tengan otro nombre.\n- Mejoras de navegación, nombres visibles y búsqueda en la app de Windows.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.61/Instalar.AngelBIM.exe"
+    "sha256": "DFBC424B20E0BB3BD29D844ED4691C57EAA77D7A050B09E8090993FFC19E7D6E",
+    "notes": "- Nueva barra lateral en la app de Windows con accesos a Biblioteca y Configuración.\n- Buscador más visible y más espacio entre filtros y vista previa.\n- Estados de selección y respuesta al cursor en los temas claro y oscuro.\n- Esta actualización incluye las mejoras anteriores del complemento para Revit 2026.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.62/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
