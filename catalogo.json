@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.28",
+    "version": "0.2.61",
     "name": "AngelBIM",
-    "sha256": "3A58AB3138CB35CE21222AF091B6595E29F5921624A6AC4925025F9FA63FB942",
-    "notes": "Cuadricula fija, nombre de tipo personalizado y correccion de la carga consecutiva.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.28/Instalar.AngelBIM.exe"
+    "sha256": "8F211D083BFA61F5A81111EE02986C043C1634FA32A58EA38D72AF42EED9261E",
+    "notes": "- Configuración integrada en el panel lateral de Revit, con tema claro u oscuro y recarga de la biblioteca.\n- Revisión de categoría y colección antes de importar familias RFA o proyectos RVT.\n- Detección de archivos idénticos aunque tengan otro nombre.\n- Mejoras de navegación, nombres visibles y búsqueda en la app de Windows.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.61/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
