@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.68",
+    "version": "0.2.69",
     "name": "AngelBIM",
-    "sha256": "0CF70BCC3A3C4DF8774428516F5F167CD201D805D05AED07BC096BB72E509B12",
-    "notes": "- Guardar lámina acepta una hoja abierta en un proyecto o un cajetín abierto en el editor de familias.\n- La cinta y el panel lateral usan el mismo guardado. Se muestra el error cuando Revit rechaza la operación.\n- Al guardar una hoja de proyecto, se conservan los campos de texto y las notas de la hoja.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.68/Instalar.AngelBIM.exe"
+    "sha256": "1E2921757679F8040D855604347A3E350FC59C4D706AEDC6B9A8F28FA02B687A",
+    "notes": "- Instalar admite confirmación con Enter y avisa explícitamente si Revit sigue abierto o si falla la instalación.\n- Guardar una lámina existente muestra la acción Reemplazar lámina en la cinta y el panel lateral.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.69/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
