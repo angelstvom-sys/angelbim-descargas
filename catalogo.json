@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.63",
+    "version": "0.2.64",
     "name": "AngelBIM",
-    "sha256": "8B0B72EA7FB4A641534A8943E29F2FDC56040244545F1C91AF338C6AD05876B7",
-    "notes": "- Clasificación ampliada con 299 subcategorías del catálogo público de BIMobject.\n- La biblioteca muestra solo categorías y colecciones con archivos.\n- Se conservan las colecciones propias de AngelBIM, como Planimetría.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.63/Instalar.AngelBIM.exe"
+    "sha256": "D8403FADC999FB4024A3848C6DBF772CF867E5C8E678E8F8C04A1A2EC4CBDCF5",
+    "notes": "- Crear lámina desde un cajetín UCE o personalizado en Revit. Pide número y nombre, comprueba duplicados y solicita abrir la hoja creada.\n- Guardar en AngelBIM guarda una copia del cajetín con un nombre propio en Planimetría → Láminas personalizadas.\n- Versión de prueba. La adaptación a tamaños adicionales se mantiene pendiente.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.64/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
