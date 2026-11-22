@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.64",
+    "version": "0.2.65",
     "name": "AngelBIM",
-    "sha256": "D8403FADC999FB4024A3848C6DBF772CF867E5C8E678E8F8C04A1A2EC4CBDCF5",
-    "notes": "- Crear lámina desde un cajetín UCE o personalizado en Revit. Pide número y nombre, comprueba duplicados y solicita abrir la hoja creada.\n- Guardar en AngelBIM guarda una copia del cajetín con un nombre propio en Planimetría → Láminas personalizadas.\n- Versión de prueba. La adaptación a tamaños adicionales se mantiene pendiente.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.64/Instalar.AngelBIM.exe"
+    "sha256": "BB019311BBD19BF25AD4BB7DE9B8C39932EA69D60FCF0897B486FE5DFC54174D",
+    "notes": "- Nueve cajetines UCE para Revit 2026: A0, A1, A2, A3, A4, carta, 11×17, 18×24 y 24×36.\n- Los formatos se incorporan en Planimetría → Membretes Universidad Central del Este. Los archivos locales existentes se conservan.\n- Incluye Crear lámina y Guardar en AngelBIM de la versión anterior. Los textos del cajetín se editan desde Editar familia.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.65/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
