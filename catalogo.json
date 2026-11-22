@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.67",
+    "version": "0.2.68",
     "name": "AngelBIM",
-    "sha256": "88D1E985D483E9BB9A3247775A248AEBB34C5B93CC5A48DD11B3417B10560A14",
-    "notes": "- Guardar lámina activa conserva el cajetín, los campos de texto personalizados y las notas de la hoja abierta en Revit.\n- Crear lámina recupera esos datos y pide un número y un nombre para la nueva hoja.\n- Borrar lámina retira una plantilla personal de la biblioteca y la conserva en un respaldo.\n- Las vistas del modelo se administran en el proyecto de Revit.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.67/Instalar.AngelBIM.exe"
+    "sha256": "0CF70BCC3A3C4DF8774428516F5F167CD201D805D05AED07BC096BB72E509B12",
+    "notes": "- Guardar lámina acepta una hoja abierta en un proyecto o un cajetín abierto en el editor de familias.\n- La cinta y el panel lateral usan el mismo guardado. Se muestra el error cuando Revit rechaza la operación.\n- Al guardar una hoja de proyecto, se conservan los campos de texto y las notas de la hoja.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.68/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
