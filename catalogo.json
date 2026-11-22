@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.62",
+    "version": "0.2.63",
     "name": "AngelBIM",
-    "sha256": "DFBC424B20E0BB3BD29D844ED4691C57EAA77D7A050B09E8090993FFC19E7D6E",
-    "notes": "- Nueva barra lateral en la app de Windows con accesos a Biblioteca y Configuración.\n- Buscador más visible y más espacio entre filtros y vista previa.\n- Estados de selección y respuesta al cursor en los temas claro y oscuro.\n- Esta actualización incluye las mejoras anteriores del complemento para Revit 2026.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.62/Instalar.AngelBIM.exe"
+    "sha256": "8B0B72EA7FB4A641534A8943E29F2FDC56040244545F1C91AF338C6AD05876B7",
+    "notes": "- Clasificación ampliada con 299 subcategorías del catálogo público de BIMobject.\n- La biblioteca muestra solo categorías y colecciones con archivos.\n- Se conservan las colecciones propias de AngelBIM, como Planimetría.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.63/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
