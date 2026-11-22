@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.65",
+    "version": "0.2.66",
     "name": "AngelBIM",
-    "sha256": "BB019311BBD19BF25AD4BB7DE9B8C39932EA69D60FCF0897B486FE5DFC54174D",
-    "notes": "- Nueve cajetines UCE para Revit 2026: A0, A1, A2, A3, A4, carta, 11×17, 18×24 y 24×36.\n- Los formatos se incorporan en Planimetría → Membretes Universidad Central del Este. Los archivos locales existentes se conservan.\n- Incluye Crear lámina y Guardar en AngelBIM de la versión anterior. Los textos del cajetín se editan desde Editar familia.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.65/Instalar.AngelBIM.exe"
+    "sha256": "D1911B9B8C900557609F47DFE0EB465027651FD48A84E7DC6BCF90A96BAC9A17",
+    "notes": "- Corrige los nueve cajetines UCE. Separa y centra los logotipos y ajusta la franja inferior según el formato.\n- Guardar en AngelBIM copia el cajetín con el nombre elegido y abre Láminas personalizadas.\n- Actualiza los cajetines originales de la versión anterior cuando coinciden con los distribuidos. Conserva las copias personalizadas.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.66/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
