@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.75",
+    "version": "0.2.76",
     "name": "AngelBIM",
-    "sha256": "BA3266B5C4589163480AD5DB0085FB5C8FBDE2D84019E58F508E9C29ECF3C0A5",
-    "notes": "La búsqueda reconoce términos de familias en español e inglés aunque estén unidos (DiningTable) o separados por símbolos. Windows empieza la búsqueda en toda la biblioteca. En Revit puedes buscar globalmente desde un proyecto o limitarte a sus piezas.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.75/Instalar.AngelBIM.exe"
+    "sha256": "BE684A36F1539B4F78634402C35364F3513A86EEA5FBD05661F1A33596136EE2",
+    "notes": "- Ver importados abre el último lote desde Configuración. El resumen distingue archivos importados, duplicados, omitidos y errores.\n- Volver recupera la búsqueda, los filtros, la página y la posición anterior en la galería.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.76/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
