@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.71",
+    "version": "0.2.72",
     "name": "AngelBIM",
-    "sha256": "DEB319397CEE61E0923D7E5903966DB8D90FA6ECF9B90CA19D706CA7DB0B0D66",
-    "notes": "Se retiran las opciones de crear copias personalizadas y borrarlas desde AngelBIM. Crear lámina sigue disponible y las plantillas guardadas se conservan.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.71/Instalar.AngelBIM.exe"
+    "sha256": "408239BCB2886A0DF36048624EA6E6BF2B9DA677EF9E53257D0125874D3D8557",
+    "notes": "- Agregar láminas importa uno o varios cajetines RFA desde Descargas y los guarda en Láminas personalizadas. Revit valida la categoría y se pide confirmación ante un nombre repetido.\n- La revisión de importación muestra el motivo de la clasificación. Usa la categoría, los tipos y parámetros de Revit para RFA y el índice local para RVT cuando está disponible.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.72/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
