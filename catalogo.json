@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.73",
+    "version": "0.2.74",
     "name": "AngelBIM",
-    "sha256": "AD237B7A24894653C9288068AF4AD9B62E90BD7835839815EE74CD1063FDAF8C",
-    "notes": "El panel de Revit incorpora Recién agregados para encontrar rápidamente las últimas familias, proyectos y láminas importados.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.73/Instalar.AngelBIM.exe"
+    "sha256": "6D6EF124D7C143B76D16B9559B00F960D69C8AFF2436FF6FD7923F1A1066CDE7",
+    "notes": "Las importaciones de cajetines se guardan en Planimetría, en Láminas personalizadas, junto a los membretes UCE. Puedes colocar archivos RFA manualmente en esa carpeta.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.74/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
