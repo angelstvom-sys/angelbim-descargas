@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.74",
+    "version": "0.2.75",
     "name": "AngelBIM",
-    "sha256": "6D6EF124D7C143B76D16B9559B00F960D69C8AFF2436FF6FD7923F1A1066CDE7",
-    "notes": "Las importaciones de cajetines se guardan en Planimetría, en Láminas personalizadas, junto a los membretes UCE. Puedes colocar archivos RFA manualmente en esa carpeta.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.74/Instalar.AngelBIM.exe"
+    "sha256": "BA3266B5C4589163480AD5DB0085FB5C8FBDE2D84019E58F508E9C29ECF3C0A5",
+    "notes": "La búsqueda reconoce términos de familias en español e inglés aunque estén unidos (DiningTable) o separados por símbolos. Windows empieza la búsqueda en toda la biblioteca. En Revit puedes buscar globalmente desde un proyecto o limitarte a sus piezas.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.75/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
