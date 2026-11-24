@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.104",
+    "version": "0.2.105",
     "name": "AngelBIM",
-    "sha256": "EA9896F0B1CBE2B1F0BB79C45E1FC21CBB6B9CE5D51747BDA894AE1602E4161A",
-    "notes": "Muro curvo crea un muro nativo de Revit a partir de tres puntos en planta, con tipo y altura elegibles.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.104/Instalar.AngelBIM.exe"
+    "sha256": "7B572BEDC2A2C6879EF3DAF53E8444A88E3372E8CAA173BB6D9F651103F36B55",
+    "notes": "Trama reúne Crear muro curvo y Generar patrón. El generador tiene una vista previa más amplia y nueve acabados con colores predefinidos.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.105/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
