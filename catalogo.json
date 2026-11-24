@@ -6,5 +6,28 @@
     "notes": "Trama abre un solo panel para seleccionar una cara plana o curva en el modelo, previsualizar y generar el patrón.",
     "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.107/Instalar.AngelBIM.exe"
   },
-  "packs": []
+  "packs": [],
+  "modules": [
+    {
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.145/AngelBIM-familias-0.2.145.zip",
+      "version": "0.2.145",
+      "name": "Familias",
+      "id": "familias",
+      "sha256": "D028004D6D2226147BD673FD885A5C69009F081670215813152976B57C9632F9"
+    },
+    {
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.145/AngelBIM-trazo-0.2.145.zip",
+      "version": "0.2.145",
+      "name": "Trazo",
+      "id": "trazo",
+      "sha256": "C4CE8F10C8813ADC2F1317682D17A3801E7485E4151B37400ACFBB7EAAC587E8"
+    },
+    {
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.145/AngelBIM-patrones-0.2.145.zip",
+      "version": "0.2.145",
+      "name": "Patrones",
+      "id": "patrones",
+      "sha256": "B87BE3199F42C1C60966ED5B90DA36B800F58CDE6EF1A03BA754469671E10CAB"
+    }
+  ]
 }
