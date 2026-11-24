@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.77",
+    "version": "0.2.78",
     "name": "AngelBIM",
-    "sha256": "E1D560E1574CD3A116ED68E7270334D45846595FDF5048DE488BD933F68003D3",
-    "notes": "Vincular al proyecto coloca un RVT completo de origen a origen en el proyecto activo. Abrir RVT y Explorar piezas siguen disponibles.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.77/Instalar.AngelBIM.exe"
+    "sha256": "ED9E83B6CDED45C9252AB58629CDA2086A0DB812EA9A9D08CD152A710176CE41",
+    "notes": "Selector de tipos rediseñado con lista, nombre completo del tipo seleccionado, desplazamiento para nombres largos y soporte de temas claro y oscuro.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.78/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
