@@ -25,20 +25,20 @@
       "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.146/AngelBIM-trazo-Revit2027-0.2.146.zip"
     },
     {
+      "revitVersion": "2026",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/patrones-v0.2.149/AngelBIM-patrones-Revit2026-0.2.149.zip",
+      "sha256": "BB1F71F2D8498D98487E73559DE802D223884F08FED675F0807F3D40B0773996",
       "id": "patrones",
       "name": "Patrones",
-      "revitVersion": "2026",
-      "version": "0.2.148",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/patrones-v0.2.148/AngelBIM-patrones-Revit2026-0.2.148.zip",
-      "sha256": "5082AE88FA5B5F4DF7C605DF68E70BB0C4A8B3ABE48714E82CB75DBC4E909C08"
+      "version": "0.2.149"
     },
     {
+      "revitVersion": "2027",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/patrones-v0.2.149/AngelBIM-patrones-Revit2027-0.2.149.zip",
+      "sha256": "9D20DC4491229BCB41F29C65D9EC05D4F26B12A6A37EBFD9475990DCB806EBA4",
       "id": "patrones",
       "name": "Patrones",
-      "revitVersion": "2027",
-      "version": "0.2.148",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/patrones-v0.2.148/AngelBIM-patrones-Revit2027-0.2.148.zip",
-      "sha256": "881ADD08C16A370946687C0D771BC204F03DA51E3B73309726EA7B6E5D519CE1"
+      "version": "0.2.149"
     }
   ]
 }
