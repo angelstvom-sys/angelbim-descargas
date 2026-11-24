@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.96",
+    "version": "0.2.97",
     "name": "AngelBIM",
-    "sha256": "F3FA926520BCC80CEC5B916701C397B83D7DDD318F0EA1A33612581E88E5707D",
-    "notes": "Cuatro perfiles de intensidad, configuraciones guardadas con nombre y deslizadores con pista activa dorada.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.96/Instalar.AngelBIM.exe"
+    "sha256": "EE5A9605E4440BD2D0F918776D7D2B50A5CCCE46A397756A337AD194564BCD91",
+    "notes": "Modelo y Anotaciones aparecen en dos bloques con borde y espacio entre ellos.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.97/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
