@@ -41,20 +41,20 @@
       "id": "trazo"
     },
     {
-      "name": "Lamas",
-      "revitVersion": "2026",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/lamas-v0.2.153/AngelBIM-lamas-Revit2026-0.2.153.zip",
       "id": "lamas",
-      "version": "0.2.153",
-      "sha256": "ECC34A5DA99D484A205041EF1D122146DED740C5F6EA4F41C1161E274E2FBE5A"
+      "revitVersion": "2026",
+      "name": "Lamas",
+      "sha256": "EBB67B9870BB8CD52DC357899398F36E4BACA503609BFBFDC92797EAEEAFE7FA",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/lamas-v0.2.154/AngelBIM-lamas-Revit2026-0.2.154.zip",
+      "version": "0.2.154"
     },
     {
-      "name": "Lamas",
-      "revitVersion": "2027",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/lamas-v0.2.153/AngelBIM-lamas-Revit2027-0.2.153.zip",
       "id": "lamas",
-      "version": "0.2.153",
-      "sha256": "D6F23D8F9289B8E600761850D496E2BDA9C8A01E2A3351E13BBF13116AC972CB"
+      "revitVersion": "2027",
+      "name": "Lamas",
+      "sha256": "AEFD31E679DFCCAEF2C93338539FABB063B248715AFED0DC9379528434E6534F",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/lamas-v0.2.154/AngelBIM-lamas-Revit2027-0.2.154.zip",
+      "version": "0.2.154"
     }
   ],
   "hub": {
