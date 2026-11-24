@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.106",
+    "version": "0.2.107",
     "name": "AngelBIM",
-    "sha256": "C078412ADF02764A540EED15C70B68EE199E122CD59E536C9A7BD3649B3CCE9C",
-    "notes": "Trama admite caras cilíndricas de muros existentes. Haz clic en el lado que quieres cubrir y elige celosía o revestimiento.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.106/Instalar.AngelBIM.exe"
+    "sha256": "A04E4E5AD6D1145F477B35ECA9CDA78E4B5F0DCF55CE14DBAA44CD63493A0684",
+    "notes": "Trama abre un solo panel para seleccionar una cara plana o curva en el modelo, previsualizar y generar el patrón.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.107/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
