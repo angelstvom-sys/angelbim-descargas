@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.88",
+    "version": "0.2.89",
     "name": "AngelBIM",
-    "sha256": "59ECDD1F1C698B887A1D4AE1DF7FB4C28FED5FC86112DC8732C15FA62C5E136F",
-    "notes": "## Estilos de vista\n\n- Deslizadores dorados con control por ratón y teclado.\n- Filas más altas y columnas con espacio para los nombres, porcentajes y colores.\n- Columna derecha más fiel a la referencia, con más espacio para el panel de intensidad.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.88/Instalar.AngelBIM.exe"
+    "sha256": "7CE39D51F904A8B0C0940BD2F2670FBCC6A4C00859D7D4EF9265C7890B8A958F",
+    "notes": "## Estilos de vista\n\n- El relleno de pisos también cubre las caras cortadas.\n- Se completa la búsqueda de elementos antes de modificar sus gráficos.\n- Si Revit rechaza los cambios de una vista, el informe identifica la vista y el motivo.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.89/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
