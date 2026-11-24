@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.81",
+    "version": "0.2.82",
     "name": "AngelBIM",
-    "sha256": "6BFA05AF10F159DE4B3F8B9CAB61A683543266F438D3A1CA95B770DE3A9F0BA8",
-    "notes": "Incorporar modelo prepara el RVT seleccionado para convertirlo en un grupo editable con Enlazar vínculo de Revit.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.81/Instalar.AngelBIM.exe"
+    "sha256": "B9FF80E7003E0D856F68542C6215ED9FD209FEC0BA55B03CEEFA66CFB5824E39",
+    "notes": "- Nuevo botón Estilos de vista en AngelBIM → Presentación.\n- Aplica una paleta a plantas, cortes, fachadas y vistas 3D. Puedes ajustar muros, pisos, estructura y rellenos de corte o superficie.\n- Activa Aplicar en copias para probar el estilo en vistas duplicadas.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.82/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
