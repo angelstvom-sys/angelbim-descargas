@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.83",
+    "version": "0.2.84",
     "name": "AngelBIM",
-    "sha256": "07541841704D951AB24B6E7833B9934B1A6FEB87A135966C302C005C1A317742",
-    "notes": "## Estilos de vista\n\n- Rediseñamos la ventana de Revit con secciones para elegir vistas y ajustar su apariencia.\n- Busca vistas por nombre y marca o desmarca los resultados visibles. Las selecciones se conservan al cambiar la búsqueda.\n- Compara las paletas Pizarra, Terracota y Grafito o selecciona un color propio.\n- La muestra esquemática se actualiza al ajustar la intensidad de muros, pisos y estructura.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.83/Instalar.AngelBIM.exe"
+    "sha256": "054C61471513CF07A18A1C0D0B3FE9E7B6E2DCFFB18BA1DF1784794175CFAB15",
+    "notes": "## Estilos de vista\n\n- Elige la vista activa, una selección manual o todas las vistas compatibles.\n- Los controles se organizan por paleta, intensidad y opciones de aplicación.\n- El botón fijo indica cuántas vistas recibirán el estilo. El pie indica si se crearán copias o se modificarán las originales.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.84/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
