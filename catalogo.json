@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.97",
+    "version": "0.2.98",
     "name": "AngelBIM",
-    "sha256": "EE5A9605E4440BD2D0F918776D7D2B50A5CCCE46A397756A337AD194564BCD91",
-    "notes": "Modelo y Anotaciones aparecen en dos bloques con borde y espacio entre ellos.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.97/Instalar.AngelBIM.exe"
+    "sha256": "B77F3FB177696BF38DF482DA2C79D465437D4748DCB108A4CBE8A9900CCB3460",
+    "notes": "Correcciones al aplicar estilos a elementos visibles y vistas recién duplicadas, al informar vistas revertidas y al señalar el preset de color activo.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.98/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
