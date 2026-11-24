@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.101",
+    "version": "0.2.102",
     "name": "AngelBIM",
-    "sha256": "9C8EC7C16458535DCC7DE3127F008A5B31036E0D5C78DD29EDC6ABD00ED01C60",
-    "notes": "Estilos de vista ahora se llama AngelBIM Trazo y tiene un icono propio de capas en la cinta de Revit.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.101/Instalar.AngelBIM.exe"
+    "sha256": "633F4BA85CB08FAB66A2D58EEE0B57748203A3A8896E1051B6E95AC78DF4977C",
+    "notes": "Los colores de la paleta de Trazo se pueden renombrar. Si quitas el nombre, el botón muestra el código HEX.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.102/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
