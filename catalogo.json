@@ -39,6 +39,22 @@
       "id": "patrones",
       "name": "Patrones",
       "version": "0.2.149"
+    },
+    {
+      "name": "Lamas",
+      "sha256": "473ADCF49231B41B5E795D2C51C435BF874486E6221AB57E4E088A82EA471322",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.150/AngelBIM-lamas-Revit2026-0.2.150.zip",
+      "version": "0.2.150",
+      "id": "lamas",
+      "revitVersion": "2026"
+    },
+    {
+      "name": "Lamas",
+      "sha256": "08FEFCC844FEA744DDCE8225FDC8FAFC1545A47B0408255F1104205708DF15BD",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.150/AngelBIM-lamas-Revit2027-0.2.150.zip",
+      "version": "0.2.150",
+      "id": "lamas",
+      "revitVersion": "2027"
     }
   ]
 }
