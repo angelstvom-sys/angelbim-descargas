@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.90",
+    "version": "0.2.91",
     "name": "AngelBIM",
-    "sha256": "689130F60C7B288FEB8BE0C9D97E3EC0AAD0890E5947F480F15F5363AFD10C21",
-    "notes": "## Estilos de vista\n\n- Cada uno de los doce grupos permite elegir su propio color o volver al color del estilo.\n- La muestra se actualiza al cambiar el color o la intensidad.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.90/Instalar.AngelBIM.exe"
+    "sha256": "08E56D023903828244C8EB9B05AEF263AF100FDB805C97F54AB8BECED3AAD638",
+    "notes": "## Estilos de vista\n\n- Intensidades iniciales recomendadas para los doce grupos.\n- El botón Usar intensidades recomendadas restablece los porcentajes y conserva los colores personalizados.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.91/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
