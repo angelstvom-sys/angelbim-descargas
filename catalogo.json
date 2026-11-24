@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.94",
+    "version": "0.2.95",
     "name": "AngelBIM",
-    "sha256": "09DADB69253F130E7497056FE53807F2A71AA9708CAEBDCC6B1E565DB11441BC",
-    "notes": "Botones y muestras redondeados. Selecciona un preset y pulsa Editar preset para guardar tu color favorito en ese espacio.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.94/Instalar.AngelBIM.exe"
+    "sha256": "03C2D1F8EDC1AE18CB930B238127591258BC7BAAD06464765B6B308B2498116B",
+    "notes": "Botones y muestras cuadrados con bordes continuos. La paleta tiene espaciado uniforme y conserva los colores personalizados.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.95/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
