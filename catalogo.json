@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.80",
+    "version": "0.2.81",
     "name": "AngelBIM",
-    "sha256": "A58D1A29FEE6E6E313A95138BBB9ED94043F28F85FF5C9409F4BF342B8031B66",
-    "notes": "Abrir RVT abre una copia editable si el archivo ya está vinculado. Vincular al proyecto deja seleccionado el vínculo y permite volver a seleccionarlo sin duplicarlo.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.80/Instalar.AngelBIM.exe"
+    "sha256": "6BFA05AF10F159DE4B3F8B9CAB61A683543266F438D3A1CA95B770DE3A9F0BA8",
+    "notes": "Incorporar modelo prepara el RVT seleccionado para convertirlo en un grupo editable con Enlazar vínculo de Revit.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.81/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
