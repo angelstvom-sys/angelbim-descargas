@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.93",
+    "version": "0.2.94",
     "name": "AngelBIM",
-    "sha256": "F3C3D59072867C305E0E97FE9865037AB0469D3E8DDF6F39D85EAF450446EF0E",
-    "notes": "Ajustamos los márgenes y el espaciado de las intensidades para dar sitio a las muestras de color y separar el encabezado de opciones.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.93/Instalar.AngelBIM.exe"
+    "sha256": "09DADB69253F130E7497056FE53807F2A71AA9708CAEBDCC6B1E565DB11441BC",
+    "notes": "Botones y muestras redondeados. Selecciona un preset y pulsa Editar preset para guardar tu color favorito en ese espacio.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.94/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
