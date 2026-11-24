@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.85",
+    "version": "0.2.86",
     "name": "AngelBIM",
-    "sha256": "8F43119536251900B74E158292BF639596AE9D77C903394BAC8D7543E866B2A5",
-    "notes": "## Estilos de vista\n\n- Ventana de tamaño fijo, iconos de sección y botones con respuesta al pasar el cursor.\n- Relleno personalizado más visible en los pisos de la vista.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.85/Instalar.AngelBIM.exe"
+    "sha256": "764194864AE57490EE2004127FBF56252FEA861A63155AE77859A60D1C4CBED6",
+    "notes": "## Estilos de vista\n\n- Tres estilos gráficos y doce grupos con intensidad, porcentaje y muestra de color.\n- Aplicación por categorías o sobre elementos visibles, con controles para superficies, cortes de muros y marcadores.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.86/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
