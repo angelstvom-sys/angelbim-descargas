@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.95",
+    "version": "0.2.96",
     "name": "AngelBIM",
-    "sha256": "03C2D1F8EDC1AE18CB930B238127591258BC7BAAD06464765B6B308B2498116B",
-    "notes": "Botones y muestras cuadrados con bordes continuos. La paleta tiene espaciado uniforme y conserva los colores personalizados.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.95/Instalar.AngelBIM.exe"
+    "sha256": "F3FA926520BCC80CEC5B916701C397B83D7DDD318F0EA1A33612581E88E5707D",
+    "notes": "Cuatro perfiles de intensidad, configuraciones guardadas con nombre y deslizadores con pista activa dorada.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.96/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
