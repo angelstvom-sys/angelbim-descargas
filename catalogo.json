@@ -9,25 +9,36 @@
   "packs": [],
   "modules": [
     {
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.145/AngelBIM-familias-0.2.145.zip",
-      "version": "0.2.145",
-      "name": "Familias",
-      "id": "familias",
-      "sha256": "D028004D6D2226147BD673FD885A5C69009F081670215813152976B57C9632F9"
-    },
-    {
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.145/AngelBIM-trazo-0.2.145.zip",
-      "version": "0.2.145",
-      "name": "Trazo",
-      "id": "trazo",
-      "sha256": "C4CE8F10C8813ADC2F1317682D17A3801E7485E4151B37400ACFBB7EAAC587E8"
-    },
-    {
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.145/AngelBIM-patrones-0.2.145.zip",
-      "version": "0.2.145",
-      "name": "Patrones",
       "id": "patrones",
-      "sha256": "B87BE3199F42C1C60966ED5B90DA36B800F58CDE6EF1A03BA754469671E10CAB"
+      "version": "0.2.146",
+      "revitVersion": "2026",
+      "name": "Patrones",
+      "sha256": "C8D8F105A1968E4F8A9ED1CF4073EE4247CC6B45B5E02741E955EF166F3D8E14",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.146/AngelBIM-patrones-Revit2026-0.2.146.zip"
+    },
+    {
+      "id": "patrones",
+      "version": "0.2.146",
+      "revitVersion": "2027",
+      "name": "Patrones",
+      "sha256": "BBEC2FE9F3CF1D383A49E1285AC2ABB0E6DFD4D694671434851074CE3805B0BA",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.146/AngelBIM-patrones-Revit2027-0.2.146.zip"
+    },
+    {
+      "id": "trazo",
+      "version": "0.2.146",
+      "revitVersion": "2026",
+      "name": "Trazo",
+      "sha256": "550B9A97BF8E38CB198332922F042B3A1ABBAE72BB5B6ECF80FF664026F12D39",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.146/AngelBIM-trazo-Revit2026-0.2.146.zip"
+    },
+    {
+      "id": "trazo",
+      "version": "0.2.146",
+      "revitVersion": "2027",
+      "name": "Trazo",
+      "sha256": "65B2BFDE5441620D4BD2EB4AB3507B2FCA4005023BDB79B92B031D8943846AE6",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.146/AngelBIM-trazo-Revit2027-0.2.146.zip"
     }
   ]
 }
