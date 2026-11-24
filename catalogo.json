@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.105",
+    "version": "0.2.106",
     "name": "AngelBIM",
-    "sha256": "7B572BEDC2A2C6879EF3DAF53E8444A88E3372E8CAA173BB6D9F651103F36B55",
-    "notes": "Trama reúne Crear muro curvo y Generar patrón. El generador tiene una vista previa más amplia y nueve acabados con colores predefinidos.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.105/Instalar.AngelBIM.exe"
+    "sha256": "C078412ADF02764A540EED15C70B68EE199E122CD59E536C9A7BD3649B3CCE9C",
+    "notes": "Trama admite caras cilíndricas de muros existentes. Haz clic en el lado que quieres cubrir y elige celosía o revestimiento.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.106/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
