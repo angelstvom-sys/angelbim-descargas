@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.103",
+    "version": "0.2.104",
     "name": "AngelBIM",
-    "sha256": "C259947891200F91FD46D01370F5464481B6088DCB0FBF590033A2B4B4B1DD51",
-    "notes": "Primera versión de prueba de AngelBIM Trama para caras planas. Incluye patrones Voronoi y triangular, vista previa, celosía abierta y revestimiento.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.103/Instalar.AngelBIM.exe"
+    "sha256": "EA9896F0B1CBE2B1F0BB79C45E1FC21CBB6B9CE5D51747BDA894AE1602E4161A",
+    "notes": "Muro curvo crea un muro nativo de Revit a partir de tres puntos en planta, con tipo y altura elegibles.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.104/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
