@@ -56,5 +56,12 @@
       "id": "lamas",
       "revitVersion": "2027"
     }
-  ]
+  ],
+  "hub": {
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.151/Instalar-AngelBIM-Hub-0.2.151.exe",
+    "sha256": "66C81FA4EA85EF47802E9D169C933CF5BF1B62EAF12B001F6937865698602C90",
+    "name": "AngelBIM Hub",
+    "id": "hub",
+    "version": "0.2.151"
+  }
 }
