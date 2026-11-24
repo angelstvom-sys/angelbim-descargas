@@ -1,10 +1,10 @@
 {
   "update": {
-    "version": "0.2.79",
+    "version": "0.2.80",
     "name": "AngelBIM",
-    "sha256": "A8030E3D3807DA9FFDDBD361E20DDD2C892235A49E09F9539E7A409C83015F95",
-    "notes": "- El buscador espera una pausa breve al escribir y reutiliza los textos de piezas ya preparados en Revit y Windows.\n- Incluye el selector de tipos con una lista más ancha y el nombre completo de cada variante.",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.79/Instalar.AngelBIM.exe"
+    "sha256": "A58D1A29FEE6E6E313A95138BBB9ED94043F28F85FF5C9409F4BF342B8031B66",
+    "notes": "Abrir RVT abre una copia editable si el archivo ya está vinculado. Vincular al proyecto deja seleccionado el vínculo y permite volver a seleccionarlo sin duplicarlo.",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/v0.2.80/Instalar.AngelBIM.exe"
   },
   "packs": []
 }
