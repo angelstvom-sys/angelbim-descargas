@@ -25,22 +25,6 @@
       "id": "patrones"
     },
     {
-      "sha256": "5C697237D8008770DFE87B025ABA1E5031D7072C48365D96F3F0B79261330CFE",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.152/AngelBIM-trazo-Revit2026-0.2.152.zip",
-      "revitVersion": "2026",
-      "version": "0.2.152",
-      "name": "Trazo",
-      "id": "trazo"
-    },
-    {
-      "sha256": "3BA7838CC568D014CE0D2D11684B2070EBEE43CA250DB7AE290F48ECA91BE94D",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.152/AngelBIM-trazo-Revit2027-0.2.152.zip",
-      "revitVersion": "2027",
-      "version": "0.2.152",
-      "name": "Trazo",
-      "id": "trazo"
-    },
-    {
       "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/lamas-v0.2.157/AngelBIM-lamas-Revit2026-0.2.157.zip",
       "name": "Lamas",
       "id": "lamas",
@@ -54,6 +38,22 @@
       "id": "lamas",
       "sha256": "43BEA9F223B28AA539B1B21734035C38344CC61B2ED253469FED31369DC8CF27",
       "version": "0.2.157",
+      "revitVersion": "2027"
+    },
+    {
+      "sha256": "4B3E5185D09E69C1B602326300651A3AFBC2ECC5BBEDC1CD91FBC6D753681AA4",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/trazo-v0.2.158/AngelBIM-trazo-Revit2026-0.2.158.zip",
+      "name": "Trazo",
+      "version": "0.2.158",
+      "id": "trazo",
+      "revitVersion": "2026"
+    },
+    {
+      "sha256": "0A4469A74E44868EB0D57F7DA929DCB9A20703725943D01F48D4EE9016D522C4",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/trazo-v0.2.158/AngelBIM-trazo-Revit2027-0.2.158.zip",
+      "name": "Trazo",
+      "version": "0.2.158",
+      "id": "trazo",
       "revitVersion": "2027"
     }
   ],
