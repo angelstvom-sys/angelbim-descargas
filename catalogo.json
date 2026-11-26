@@ -63,22 +63,22 @@
       "notes": "Iconos gris y dorado con proporciones uniformes en Revit y AngelBIM Hub."
     },
     {
-      "sha256": "D91D299A4B515F082BFD51C340B478DFE2B00306BD3DD1858DDFD1DEF7D53D36",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.187/AngelBIM-plantas-Revit2026-0.2.187.zip",
+      "sha256": "8D0B0A488D258EF9EAED62A73C21D903AAB341F24033C2B4ADB26A5604B95D33",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/plantas-v0.2.188/AngelBIM-plantas-Revit2026-0.2.188.zip",
       "name": "Plantas tipo",
       "id": "plantas",
       "revitVersion": "2026",
-      "version": "0.2.187",
-      "notes": "Plantas tipo amplía la vista previa y muestra todas las categorías. La confirmación lista los elementos por nivel y el botón ahora dice Copiar elementos a los niveles."
+      "version": "0.2.188",
+      "notes": "Visor 3D de Plantas tipo con geometría sombreada, órbita horizontal y vertical, desplazamiento, zoom y vistas de planta, elevación e isométrica."
     },
     {
-      "sha256": "DC246FC8A8B1E523B3F51495CEFF589AAF7E7F7B1115A4CFC96BF506CDB24728",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.187/AngelBIM-plantas-Revit2027-0.2.187.zip",
+      "sha256": "16BA0790FB425846E48B1B51DFE3CCC91AE6100E9C38098869D3CD93521CFD19",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/plantas-v0.2.188/AngelBIM-plantas-Revit2027-0.2.188.zip",
       "name": "Plantas tipo",
       "id": "plantas",
       "revitVersion": "2027",
-      "version": "0.2.187",
-      "notes": "Plantas tipo amplía la vista previa y muestra todas las categorías. La confirmación lista los elementos por nivel y el botón ahora dice Copiar elementos a los niveles."
+      "version": "0.2.188",
+      "notes": "Visor 3D de Plantas tipo con geometría sombreada, órbita horizontal y vertical, desplazamiento, zoom y vistas de planta, elevación e isométrica."
     },
     {
       "sha256": "A950EBFF7FC8D53C4E9A43D454738B220AEE0FDEAB09F40B0C52BFB0CFA9583A",
