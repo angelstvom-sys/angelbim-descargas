@@ -25,20 +25,20 @@
       "version": "0.2.166"
     },
     {
-      "sha256": "F9620BA6A18E64249F9BA3268D2EF965B43E422FD49D04003D7F48AAF24682B1",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/AngelBIM-guardado-Revit2026-0.2.166.zip",
+      "sha256": "8E83F9191E01CF7AB1D604AD9553D5D783D17D2165FCEF412979171429D41ECE",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/guardado-v0.2.179/AngelBIM-guardado-Revit2026-0.2.179.zip",
       "name": "Guardado automático",
       "id": "guardado",
       "revitVersion": "2026",
-      "version": "0.2.166"
+      "version": "0.2.179"
     },
     {
-      "sha256": "BCF8CBB3E253AEB8CA1BE23F6DBB6EEE70728E305A2E5E4D4EB70BE6E047A39F",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/AngelBIM-guardado-Revit2027-0.2.166.zip",
+      "sha256": "B4DA32BFC428B23CB37677082925E183329A2493DE503C0D58C06F9F96003C81",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/guardado-v0.2.179/AngelBIM-guardado-Revit2027-0.2.179.zip",
       "name": "Guardado automático",
       "id": "guardado",
       "revitVersion": "2027",
-      "version": "0.2.166"
+      "version": "0.2.179"
     },
     {
       "sha256": "F3C5F2A184A01C4BCB5AE23E4FE5F6D548D046334E98EBA9E5E052A54B1ED020",
