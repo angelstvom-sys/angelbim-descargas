@@ -9,20 +9,20 @@
   "packs": [],
   "modules": [
     {
-      "sha256": "DB476DD40C1D033CD475198324D0258ADD55FBCC2A1B1D1CA506A53796FE6A0C",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.180/AngelBIM-colocacion-Revit2026-0.2.180.zip",
+      "sha256": "D3C0C6FE5FC505A51ACB87DEC578B4538A960A28D00D36781D10506AFC45A62D",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/colocacion-v0.2.181/AngelBIM-colocacion-Revit2026-0.2.181.zip",
       "name": "Colocación masiva",
       "id": "colocacion",
       "revitVersion": "2026",
-      "version": "0.2.180"
+      "version": "0.2.181"
     },
     {
-      "sha256": "0A6E3D1014AE79D8FC1B5680AF6A5B3AB448DC5EBC0D40C0A21798A47E76AAD2",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.180/AngelBIM-colocacion-Revit2027-0.2.180.zip",
+      "sha256": "32AC1CB285A17F3472BCD13427869D0029B4864D35CDD6CB5312720A6FA7E0FB",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/colocacion-v0.2.181/AngelBIM-colocacion-Revit2027-0.2.181.zip",
       "name": "Colocación masiva",
       "id": "colocacion",
       "revitVersion": "2027",
-      "version": "0.2.180"
+      "version": "0.2.181"
     },
     {
       "sha256": "8E83F9191E01CF7AB1D604AD9553D5D783D17D2165FCEF412979171429D41ECE",
