@@ -25,36 +25,36 @@
       "sha256": "3A9CC8926FB4BA29921665CE5472E3C9A216C4B6ACEBA944EB251ACFD5DC551B"
     },
     {
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.163/AngelBIM-lamas-Revit2026-0.2.163.zip",
+      "sha256": "B332E0321383C3FF21597420CC1ADB6E9E734F9AFFC88959E38C3424FD55773C",
+      "version": "0.2.164",
       "revitVersion": "2026",
-      "version": "0.2.163",
       "id": "lamas",
       "name": "Lamas",
-      "sha256": "34D862DD84DAAC4AAC594A6B0CBAEBE0827F301E09FF373DFB9DDB54035C1F85"
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.164/AngelBIM-lamas-Revit2026-0.2.164.zip"
     },
     {
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.163/AngelBIM-lamas-Revit2027-0.2.163.zip",
+      "sha256": "767E375A6FBFA31CDFD85F21C0F6D4895866138EB782B93A419B7C041AFDFF69",
+      "version": "0.2.164",
       "revitVersion": "2027",
-      "version": "0.2.163",
       "id": "lamas",
       "name": "Lamas",
-      "sha256": "45584EE46F5FF3B444D9EC5C790F3D6FF6335152249296566BDF88BE8C9F584E"
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.164/AngelBIM-lamas-Revit2027-0.2.164.zip"
     },
     {
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.163/AngelBIM-patrones-Revit2026-0.2.163.zip",
+      "sha256": "938858E12E65362B6D96C1E90989647BBD5B794483AC06619E69EBDB783C4DEB",
+      "version": "0.2.164",
       "revitVersion": "2026",
-      "version": "0.2.163",
       "id": "patrones",
       "name": "Patrones",
-      "sha256": "A901D425B0A0A9A50CB3F83C0109F41A79F28E5BBE7C08BE8780A71B53D66D94"
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.164/AngelBIM-patrones-Revit2026-0.2.164.zip"
     },
     {
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.163/AngelBIM-patrones-Revit2027-0.2.163.zip",
+      "sha256": "D6E5985EC73BF068D394BB5D44F8BC452AD0FCA92C6324D4150E75F6585D218D",
+      "version": "0.2.164",
       "revitVersion": "2027",
-      "version": "0.2.163",
       "id": "patrones",
       "name": "Patrones",
-      "sha256": "3152F8940FAD9442115B1D70A9994E2015CF1CB3BF2849DF509F4FDDD6EED3B4"
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.164/AngelBIM-patrones-Revit2027-0.2.164.zip"
     }
   ],
   "hub": {
