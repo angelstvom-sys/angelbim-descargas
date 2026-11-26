@@ -27,22 +27,22 @@
       "notes": "Botón + Añadir junto al selector de familia. La forma de colocación, la separación y las filas de cuadrícula aparecen al comienzo del panel."
     },
     {
-      "sha256": "DC8C0DB4723F2C2EA633BA6675F81564074320ACEE9F532E69613237871CD454",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.190/AngelBIM-guardado-Revit2026-0.2.190.zip",
+      "sha256": "4176717032EC48D00D583666A53A0A1158069850D305B4D13B0A332783996978",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/guardado-v0.2.192/AngelBIM-guardado-Revit2026-0.2.192.zip",
       "name": "Guardado automático",
       "id": "guardado",
       "revitVersion": "2026",
-      "version": "0.2.190",
-      "notes": "La ventana de AutoSave+ muestra las secciones en dos columnas y elimina el desplazamiento vertical."
+      "version": "0.2.192",
+      "notes": "La ruta de respaldos y Buscar carpeta aparecen arriba. El panel reorganiza los ajustes para mantener visibles los controles con escalado de pantalla."
     },
     {
-      "sha256": "A34F44301C2CFE3E193A5052A229CC8F03B03F44113E50476C735B59DE99A772",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.190/AngelBIM-guardado-Revit2027-0.2.190.zip",
+      "sha256": "49ED9C5DA5020EC672FC48088CD9207A9B8C17CBB3ECA39B88CFCF14ECE620FE",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/guardado-v0.2.192/AngelBIM-guardado-Revit2027-0.2.192.zip",
       "name": "Guardado automático",
       "id": "guardado",
       "revitVersion": "2027",
-      "version": "0.2.190",
-      "notes": "La ventana de AutoSave+ muestra las secciones en dos columnas y elimina el desplazamiento vertical."
+      "version": "0.2.192",
+      "notes": "La ruta de respaldos y Buscar carpeta aparecen arriba. El panel reorganiza los ajustes para mantener visibles los controles con escalado de pantalla."
     },
     {
       "sha256": "13E6A129C17263DC782A81CB9DED7693FB9255C6922EF5BAF2F924C025A062FF",
