@@ -27,22 +27,22 @@
       "notes": "Botón + Añadir junto al selector de familia. La forma de colocación, la separación y las filas de cuadrícula aparecen al comienzo del panel."
     },
     {
-      "sha256": "4176717032EC48D00D583666A53A0A1158069850D305B4D13B0A332783996978",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/guardado-v0.2.192/AngelBIM-guardado-Revit2026-0.2.192.zip",
+      "sha256": "BE645D2DD2F81C1619967D6FB24478B3D9EACC5A7F477A919F02743D1D808564",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/guardado-v0.2.193/AngelBIM-guardado-Revit2026-0.2.193.zip",
       "name": "Guardado automático",
       "id": "guardado",
       "revitVersion": "2026",
-      "version": "0.2.192",
-      "notes": "La ruta de respaldos y Buscar carpeta aparecen arriba. El panel reorganiza los ajustes para mantener visibles los controles con escalado de pantalla."
+      "version": "0.2.193",
+      "notes": "Ventana más estrecha y alta. Carpeta de respaldos y Buscar carpeta visibles arriba. Todos los ajustes aparecen sin desplazamiento."
     },
     {
-      "sha256": "49ED9C5DA5020EC672FC48088CD9207A9B8C17CBB3ECA39B88CFCF14ECE620FE",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/guardado-v0.2.192/AngelBIM-guardado-Revit2027-0.2.192.zip",
+      "sha256": "68DD183717BB9DF8D48F9CB8F4C785DB60657B3F71320EE2C351B765DA125300",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/guardado-v0.2.193/AngelBIM-guardado-Revit2027-0.2.193.zip",
       "name": "Guardado automático",
       "id": "guardado",
       "revitVersion": "2027",
-      "version": "0.2.192",
-      "notes": "La ruta de respaldos y Buscar carpeta aparecen arriba. El panel reorganiza los ajustes para mantener visibles los controles con escalado de pantalla."
+      "version": "0.2.193",
+      "notes": "Ventana más estrecha y alta. Carpeta de respaldos y Buscar carpeta visibles arriba. Todos los ajustes aparecen sin desplazamiento."
     },
     {
       "sha256": "13E6A129C17263DC782A81CB9DED7693FB9255C6922EF5BAF2F924C025A062FF",
