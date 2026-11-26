@@ -9,118 +9,120 @@
   "packs": [],
   "modules": [
     {
-      "sha256": "EE7B06F71A1AF37AC1050E3CC0E0DE624915CF2F067E0435C1B5938FE9B18F32",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/colocacion-v0.2.182/AngelBIM-colocacion-Revit2026-0.2.182.zip",
+      "sha256": "210CE749689EF65FFC5E2A789C84020D47E1EDAF145DC08359A3230C0D7A16AA",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.185/AngelBIM-colocacion-Revit2026-0.2.185.zip",
       "name": "Colocación masiva",
       "id": "colocacion",
       "revitVersion": "2026",
-      "version": "0.2.182",
-      "notes": "Ventana de tamaño fijo más amplia. Zoom, desplazamiento y resaltado de familias en el esquema 2D."
+      "version": "0.2.185",
+      "notes": "Iconos gris y dorado con proporciones uniformes en Revit y AngelBIM Hub."
     },
     {
-      "sha256": "AE64FF24F37762791017EA1F064263B2D4D930D790CFF0F1336B3908322036BE",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/colocacion-v0.2.182/AngelBIM-colocacion-Revit2027-0.2.182.zip",
+      "sha256": "195C48F149513F626410A30AAA395633CB4362D85B194D31FC0380A93239F596",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.185/AngelBIM-colocacion-Revit2027-0.2.185.zip",
       "name": "Colocación masiva",
       "id": "colocacion",
       "revitVersion": "2027",
-      "version": "0.2.182",
-      "notes": "Ventana de tamaño fijo más amplia. Zoom, desplazamiento y resaltado de familias en el esquema 2D."
+      "version": "0.2.185",
+      "notes": "Iconos gris y dorado con proporciones uniformes en Revit y AngelBIM Hub."
     },
     {
-      "sha256": "8E83F9191E01CF7AB1D604AD9553D5D783D17D2165FCEF412979171429D41ECE",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/guardado-v0.2.179/AngelBIM-guardado-Revit2026-0.2.179.zip",
+      "sha256": "D36391C8D4913AF2277D85105D6924FB462D5B4D295E09473F982A30D3F47F12",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.185/AngelBIM-guardado-Revit2026-0.2.185.zip",
       "name": "Guardado automático",
       "id": "guardado",
       "revitVersion": "2026",
-      "version": "0.2.179",
-      "notes": "Panel AutoSave+ con carpeta de respaldos, avisos y retención configurable por cantidad o antigüedad."
+      "version": "0.2.185",
+      "notes": "Iconos gris y dorado con proporciones uniformes en Revit y AngelBIM Hub."
     },
     {
-      "sha256": "B4DA32BFC428B23CB37677082925E183329A2493DE503C0D58C06F9F96003C81",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/guardado-v0.2.179/AngelBIM-guardado-Revit2027-0.2.179.zip",
+      "sha256": "0609BE97556654AF17ACEC9D834740D7EFE9C802747144F9D046CEFB152F5567",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.185/AngelBIM-guardado-Revit2027-0.2.185.zip",
       "name": "Guardado automático",
       "id": "guardado",
       "revitVersion": "2027",
-      "version": "0.2.179",
-      "notes": "Panel AutoSave+ con carpeta de respaldos, avisos y retención configurable por cantidad o antigüedad."
+      "version": "0.2.185",
+      "notes": "Iconos gris y dorado con proporciones uniformes en Revit y AngelBIM Hub."
     },
     {
-      "sha256": "F3C5F2A184A01C4BCB5AE23E4FE5F6D548D046334E98EBA9E5E052A54B1ED020",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/patrones-v0.2.178/AngelBIM-patrones-Revit2026-0.2.178.zip",
+      "sha256": "13E6A129C17263DC782A81CB9DED7693FB9255C6922EF5BAF2F924C025A062FF",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.185/AngelBIM-patrones-Revit2026-0.2.185.zip",
       "name": "Patrones",
       "id": "patrones",
       "revitVersion": "2026",
-      "version": "0.2.178",
-      "notes": "Mejora la recuperación de sólidos en piezas curvas estrechas para conservar el selector de material en Propiedades cuando sea posible."
+      "version": "0.2.185",
+      "notes": "Iconos gris y dorado con proporciones uniformes en Revit y AngelBIM Hub."
     },
     {
-      "sha256": "3577B735332F1D59DA53CD8E257B89DADDC197A0B5E5825EF237ADC4394611F9",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/patrones-v0.2.178/AngelBIM-patrones-Revit2027-0.2.178.zip",
+      "sha256": "9DFD66BAA775D06E969458FA46CB1F343DC947F1C9612AFA2DED7F2B688D16F7",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.185/AngelBIM-patrones-Revit2027-0.2.185.zip",
       "name": "Patrones",
       "id": "patrones",
       "revitVersion": "2027",
-      "version": "0.2.178",
-      "notes": "Mejora la recuperación de sólidos en piezas curvas estrechas para conservar el selector de material en Propiedades cuando sea posible."
+      "version": "0.2.185",
+      "notes": "Iconos gris y dorado con proporciones uniformes en Revit y AngelBIM Hub."
     },
     {
-      "sha256": "D5872B1008FB07B50C0A9AEC289A1B59C2575D2873E9FED111A36A16F53004F9",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.180/AngelBIM-plantas-Revit2026-0.2.180.zip",
+      "sha256": "9FAC2B2B973574107AA2FA8160B97240017A57A832E5EDDC4815C0CD64D95986",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.185/AngelBIM-plantas-Revit2026-0.2.185.zip",
       "name": "Plantas tipo",
       "id": "plantas",
       "revitVersion": "2026",
-      "version": "0.2.180",
-      "notes": "Interfaz para seleccionar niveles y revisar la copia, con un nuevo icono en Revit."
+      "version": "0.2.185",
+      "notes": "Plantas tipo tiene ventana amplia de tamaño fijo, controles de copia y una vista previa esquemática isométrica y en elevación por niveles. Iconos gris y dorado con proporciones uniformes en Revit y AngelBIM Hub."
     },
     {
-      "sha256": "FFAF4CB04112F9C01674356818CBC3D85D1D357BB96F3A68377E0E79843BDBDE",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.180/AngelBIM-plantas-Revit2027-0.2.180.zip",
+      "sha256": "586D3155BF8B9AB5307AF176C2EE12C268F208169F4A2E4B8BE56432C9168F5E",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.185/AngelBIM-plantas-Revit2027-0.2.185.zip",
       "name": "Plantas tipo",
       "id": "plantas",
       "revitVersion": "2027",
-      "version": "0.2.180",
-      "notes": "Interfaz para seleccionar niveles y revisar la copia, con un nuevo icono en Revit."
+      "version": "0.2.185",
+      "notes": "Plantas tipo tiene ventana amplia de tamaño fijo, controles de copia y una vista previa esquemática isométrica y en elevación por niveles. Iconos gris y dorado con proporciones uniformes en Revit y AngelBIM Hub."
     },
     {
-      "sha256": "9691BCE02F1249B792FB5407901011FDFFC7E9DBB497B7EDF165198942F5D2CD",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/AngelBIM-trazo-Revit2026-0.2.166.zip",
+      "sha256": "A950EBFF7FC8D53C4E9A43D454738B220AEE0FDEAB09F40B0C52BFB0CFA9583A",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.185/AngelBIM-trazo-Revit2026-0.2.185.zip",
       "name": "Trazo",
       "id": "trazo",
       "revitVersion": "2026",
-      "version": "0.2.166"
+      "version": "0.2.185",
+      "notes": "Iconos gris y dorado con proporciones uniformes en Revit y AngelBIM Hub."
     },
     {
-      "sha256": "21581BEA90A742BF631D112B14725FD2EAFA365E0ECEF4C5CAF7D08F35938280",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/AngelBIM-trazo-Revit2027-0.2.166.zip",
+      "sha256": "80400F668690C771E29E07D28C6C9CDD9D86B22A88EAEED5810E4613A504C9E1",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.185/AngelBIM-trazo-Revit2027-0.2.185.zip",
       "name": "Trazo",
       "id": "trazo",
       "revitVersion": "2027",
-      "version": "0.2.166"
+      "version": "0.2.185",
+      "notes": "Iconos gris y dorado con proporciones uniformes en Revit y AngelBIM Hub."
     },
     {
       "name": "Lamas",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/lamas-v0.2.177/AngelBIM-lamas-Revit2026-0.2.177.zip",
-      "version": "0.2.177",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.185/AngelBIM-lamas-Revit2026-0.2.185.zip",
+      "version": "0.2.185",
       "id": "lamas",
-      "sha256": "07A696B9F0D8B7DA64275ADCD411AB4276EF59BACD640FCAC24FEC8CA33A0B88",
+      "sha256": "1EF6F924B5205BAADF7FA31261A2700E7385A12EA5DAE8A279BADCA41220726A",
       "revitVersion": "2026",
-      "notes": "Reintenta el recorte cuando Revit rechaza la intersección. Muestra las piezas que no se recortaron en el panel."
+      "notes": "Iconos gris y dorado con proporciones uniformes en Revit y AngelBIM Hub."
     },
     {
       "name": "Lamas",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/lamas-v0.2.177/AngelBIM-lamas-Revit2027-0.2.177.zip",
-      "version": "0.2.177",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.185/AngelBIM-lamas-Revit2027-0.2.185.zip",
+      "version": "0.2.185",
       "id": "lamas",
-      "sha256": "6E630D555C026D4C3385FED97032C8361656EC66969BC4E391B2CF14854E4564",
+      "sha256": "84D34081AD8551988E4A764CF1770986928A9C4E8BC13594546C85F0985D3D1C",
       "revitVersion": "2027",
-      "notes": "Reintenta el recorte cuando Revit rechaza la intersección. Muestra las piezas que no se recortaron en el panel."
+      "notes": "Iconos gris y dorado con proporciones uniformes en Revit y AngelBIM Hub."
     }
   ],
   "hub": {
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.184/Instalar-AngelBIM-Hub-0.2.184.exe",
-    "version": "0.2.184",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.185/Instalar-AngelBIM-Hub-0.2.185.exe",
+    "version": "0.2.185",
     "id": "hub",
     "name": "AngelBIM Hub",
-    "sha256": "724E7E389D5A2D309436C593C0E5391CBAF8F227873F2029BBD1A6EAC33CC26D",
-    "notes": "• Aviso al abrir cuando hay una nueva versión del Hub.\n• Notas y confirmación antes de actualizar el Hub o un complemento.\n• Ahora no deja pendiente la actualización."
+    "sha256": "101BA19D033838E827BD09B6153AF67689B2E7BD9535830D7103297420E18D55",
+    "notes": "Iconos gris y dorado con proporciones uniformes en Revit y AngelBIM Hub."
   }
 }
