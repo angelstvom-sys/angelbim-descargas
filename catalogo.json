@@ -106,10 +106,11 @@
     }
   ],
   "hub": {
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.180/Instalar-AngelBIM-Hub-0.2.180.exe",
-    "version": "0.2.180",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.183/Instalar-AngelBIM-Hub-0.2.183.exe",
+    "version": "0.2.183",
     "id": "hub",
     "name": "AngelBIM Hub",
-    "sha256": "8D71B85F8A2A0B92BB8171222568FCB8E2A7BE653A6166DA60300CBAC8697C67"
+    "sha256": "5A145E35B6E8FCD0F34E38404515F6DFC81EF71077A4C436BA60C1F4B0480AE0",
+    "notes": "• El Hub avisa al abrir si hay una versión nueva.\n• Actualizar Hub muestra la versión instalada, la nueva versión y sus cambios.\n• Puedes elegir Descargar e instalar o Ahora no."
   }
 }
