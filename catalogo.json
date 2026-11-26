@@ -27,22 +27,22 @@
       "notes": "Colocar familias tiene más espacio para los campos y las miniaturas. La vista previa indica la orientación de cada instancia."
     },
     {
-      "sha256": "43E3195F5E12EA70206C3674F4ED95BFF4DE18CBD383327BF63B2D4536776EA8",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.187/AngelBIM-guardado-Revit2026-0.2.187.zip",
+      "sha256": "DC8C0DB4723F2C2EA633BA6675F81564074320ACEE9F532E69613237871CD454",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.190/AngelBIM-guardado-Revit2026-0.2.190.zip",
       "name": "Guardado automático",
       "id": "guardado",
       "revitVersion": "2026",
-      "version": "0.2.187",
-      "notes": "AutoSave+ tiene ventana más amplia, interruptores dorados y Guardar y Cancelar siempre visibles. Incluye intervalos, respaldos, notificaciones y limpieza."
+      "version": "0.2.190",
+      "notes": "La ventana de AutoSave+ muestra las secciones en dos columnas y elimina el desplazamiento vertical."
     },
     {
-      "sha256": "E469AFAC84255B54EC310CAC0C743E72E1AB32EBB7AA3C09DA5B3043C3764CC1",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.187/AngelBIM-guardado-Revit2027-0.2.187.zip",
+      "sha256": "A34F44301C2CFE3E193A5052A229CC8F03B03F44113E50476C735B59DE99A772",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.190/AngelBIM-guardado-Revit2027-0.2.190.zip",
       "name": "Guardado automático",
       "id": "guardado",
       "revitVersion": "2027",
-      "version": "0.2.187",
-      "notes": "AutoSave+ tiene ventana más amplia, interruptores dorados y Guardar y Cancelar siempre visibles. Incluye intervalos, respaldos, notificaciones y limpieza."
+      "version": "0.2.190",
+      "notes": "La ventana de AutoSave+ muestra las secciones en dos columnas y elimina el desplazamiento vertical."
     },
     {
       "sha256": "13E6A129C17263DC782A81CB9DED7693FB9255C6922EF5BAF2F924C025A062FF",
@@ -63,22 +63,22 @@
       "notes": "Iconos gris y dorado con proporciones uniformes en Revit y AngelBIM Hub."
     },
     {
-      "sha256": "5AF5420AA5F0CD7BB7571454EB6D133467DF006F0C36E30E3BAE542281CE247D",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/plantas-v0.2.189/AngelBIM-plantas-Revit2026-0.2.189.zip",
+      "sha256": "308E6CCDBCF7A7AB5BA4B1E350F659A02AC73ED39C474E97BFFAC0EFFA8D900E",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.190/AngelBIM-plantas-Revit2026-0.2.190.zip",
       "name": "Plantas tipo",
       "id": "plantas",
       "revitVersion": "2026",
-      "version": "0.2.189",
-      "notes": "Vista de líneas predeterminada y botón para alternar con el visor 3D sombreado. Ambas vistas permiten orbitar, desplazar y acercar."
+      "version": "0.2.190",
+      "notes": "La vista de líneas dibuja bordes de la geometría de Revit y mejora el encuadre de los niveles."
     },
     {
-      "sha256": "BE29E0FFD93E72577062C65B73482618C4407CF12EF191810850BDD5994AC018",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/plantas-v0.2.189/AngelBIM-plantas-Revit2027-0.2.189.zip",
+      "sha256": "6A9CCDB8A4974B71A0B9C8CF2305D2569E0D6DFBE7609E5CC1C3DF7CC5F64FA4",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.190/AngelBIM-plantas-Revit2027-0.2.190.zip",
       "name": "Plantas tipo",
       "id": "plantas",
       "revitVersion": "2027",
-      "version": "0.2.189",
-      "notes": "Vista de líneas predeterminada y botón para alternar con el visor 3D sombreado. Ambas vistas permiten orbitar, desplazar y acercar."
+      "version": "0.2.190",
+      "notes": "La vista de líneas dibuja bordes de la geometría de Revit y mejora el encuadre de los niveles."
     },
     {
       "sha256": "A950EBFF7FC8D53C4E9A43D454738B220AEE0FDEAB09F40B0C52BFB0CFA9583A",
