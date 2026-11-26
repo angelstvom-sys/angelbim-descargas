@@ -9,107 +9,107 @@
   "packs": [],
   "modules": [
     {
-      "name": "Trazo",
-      "version": "0.2.159",
-      "revitVersion": "2026",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.159/AngelBIM-trazo-Revit2026-0.2.159.zip",
-      "id": "trazo",
-      "sha256": "5C434E1D141E6222E3E5569BF03D549C0656B1136CECE9B50F7702717429F1EA"
-    },
-    {
-      "name": "Trazo",
-      "version": "0.2.159",
-      "revitVersion": "2027",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.159/AngelBIM-trazo-Revit2027-0.2.159.zip",
-      "id": "trazo",
-      "sha256": "3A9CC8926FB4BA29921665CE5472E3C9A216C4B6ACEBA944EB251ACFD5DC551B"
-    },
-    {
-      "sha256": "B332E0321383C3FF21597420CC1ADB6E9E734F9AFFC88959E38C3424FD55773C",
-      "version": "0.2.164",
-      "revitVersion": "2026",
-      "id": "lamas",
-      "name": "Lamas",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.164/AngelBIM-lamas-Revit2026-0.2.164.zip"
-    },
-    {
-      "sha256": "767E375A6FBFA31CDFD85F21C0F6D4895866138EB782B93A419B7C041AFDFF69",
-      "version": "0.2.164",
-      "revitVersion": "2027",
-      "id": "lamas",
-      "name": "Lamas",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.164/AngelBIM-lamas-Revit2027-0.2.164.zip"
-    },
-    {
-      "sha256": "938858E12E65362B6D96C1E90989647BBD5B794483AC06619E69EBDB783C4DEB",
-      "version": "0.2.164",
-      "revitVersion": "2026",
-      "id": "patrones",
-      "name": "Patrones",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.164/AngelBIM-patrones-Revit2026-0.2.164.zip"
-    },
-    {
-      "sha256": "D6E5985EC73BF068D394BB5D44F8BC452AD0FCA92C6324D4150E75F6585D218D",
-      "version": "0.2.164",
-      "revitVersion": "2027",
-      "id": "patrones",
-      "name": "Patrones",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.164/AngelBIM-patrones-Revit2027-0.2.164.zip"
-    },
-    {
+      "sha256": "A27CAE907AB418BF4DB8D44F3D212A67C90885A7ECC22ECD1F3DEC889655FF8A",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/AngelBIM-colocacion-Revit2026-0.2.166.zip",
       "name": "Colocación masiva",
-      "version": "0.2.165",
       "id": "colocacion",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.165/AngelBIM-colocacion-Revit2026-0.2.165.zip",
-      "sha256": "4A98DA5BAB2C1C443CF11552951E38EADD748A39F198A21FEF0A69B7B586EDBF",
-      "revitVersion": "2026"
+      "revitVersion": "2026",
+      "version": "0.2.166"
     },
     {
+      "sha256": "8FABD5ED233FC98DC7209AB57E6D77F0F51BE3DD5D879B1891E4677607BA311D",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/AngelBIM-colocacion-Revit2027-0.2.166.zip",
       "name": "Colocación masiva",
-      "version": "0.2.165",
       "id": "colocacion",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.165/AngelBIM-colocacion-Revit2027-0.2.165.zip",
-      "sha256": "C42D13DB49C2F0343E345C4C33979E9DFD6109F306EF002D597D0BEF5D0B8E77",
-      "revitVersion": "2027"
+      "revitVersion": "2027",
+      "version": "0.2.166"
     },
     {
+      "sha256": "F9620BA6A18E64249F9BA3268D2EF965B43E422FD49D04003D7F48AAF24682B1",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/AngelBIM-guardado-Revit2026-0.2.166.zip",
       "name": "Guardado automático",
-      "version": "0.2.165",
       "id": "guardado",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.165/AngelBIM-guardado-Revit2026-0.2.165.zip",
-      "sha256": "57FD26114C0063583CBB76C5D7CAD1727DDB5B147BF29B8CEDD5AEA399B0BA43",
-      "revitVersion": "2026"
+      "revitVersion": "2026",
+      "version": "0.2.166"
     },
     {
+      "sha256": "BCF8CBB3E253AEB8CA1BE23F6DBB6EEE70728E305A2E5E4D4EB70BE6E047A39F",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/AngelBIM-guardado-Revit2027-0.2.166.zip",
       "name": "Guardado automático",
-      "version": "0.2.165",
       "id": "guardado",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.165/AngelBIM-guardado-Revit2027-0.2.165.zip",
-      "sha256": "20F898F3F2F0468F0FF9F0E0DFA3E8CCD5A792266202F74CE1AD25C0AF7E3A3D",
-      "revitVersion": "2027"
+      "revitVersion": "2027",
+      "version": "0.2.166"
     },
     {
-      "name": "Plantas tipo",
-      "version": "0.2.165",
-      "id": "plantas",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.165/AngelBIM-plantas-Revit2026-0.2.165.zip",
-      "sha256": "83D46F323278C1EDA932036E869258EE75CB47B4865BD2E72B6A917C9DA25B60",
-      "revitVersion": "2026"
+      "sha256": "28673F83B5E8B43960B499D3BCAE679A0F0D760FE14C6F9B4E1040E7A12978C0",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/AngelBIM-lamas-Revit2026-0.2.166.zip",
+      "name": "Lamas",
+      "id": "lamas",
+      "revitVersion": "2026",
+      "version": "0.2.166"
     },
     {
+      "sha256": "CC9E91E9D91C0ABEAE2F9BB31779D04A30C90C2DCD01C092F174EF8841E5113D",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/AngelBIM-lamas-Revit2027-0.2.166.zip",
+      "name": "Lamas",
+      "id": "lamas",
+      "revitVersion": "2027",
+      "version": "0.2.166"
+    },
+    {
+      "sha256": "90F7F4A1B5D370CB3F6B67E6CD5627202A42DA1F400DFF45EEBD85A431CBB62E",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/AngelBIM-patrones-Revit2026-0.2.166.zip",
+      "name": "Patrones",
+      "id": "patrones",
+      "revitVersion": "2026",
+      "version": "0.2.166"
+    },
+    {
+      "sha256": "154D447964AA162BDF6D0ACED14D9E183508BDFC83190FC2F7F26B7E8D4B995F",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/AngelBIM-patrones-Revit2027-0.2.166.zip",
+      "name": "Patrones",
+      "id": "patrones",
+      "revitVersion": "2027",
+      "version": "0.2.166"
+    },
+    {
+      "sha256": "505B074FB698D0CC765DED061CC917B715D103952EB556FB7964E6657A00D858",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/AngelBIM-plantas-Revit2026-0.2.166.zip",
       "name": "Plantas tipo",
-      "version": "0.2.165",
       "id": "plantas",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.165/AngelBIM-plantas-Revit2027-0.2.165.zip",
-      "sha256": "612FB45763D6A5AF4DB94F46D93C6919C8AF53E3775E3F9E92C1E13424C69A12",
-      "revitVersion": "2027"
+      "revitVersion": "2026",
+      "version": "0.2.166"
+    },
+    {
+      "sha256": "035DD46C4A86963E3A1EF0CB8A88EECB470A5BC7D55B5EDF414F5284F2174605",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/AngelBIM-plantas-Revit2027-0.2.166.zip",
+      "name": "Plantas tipo",
+      "id": "plantas",
+      "revitVersion": "2027",
+      "version": "0.2.166"
+    },
+    {
+      "sha256": "9691BCE02F1249B792FB5407901011FDFFC7E9DBB497B7EDF165198942F5D2CD",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/AngelBIM-trazo-Revit2026-0.2.166.zip",
+      "name": "Trazo",
+      "id": "trazo",
+      "revitVersion": "2026",
+      "version": "0.2.166"
+    },
+    {
+      "sha256": "21581BEA90A742BF631D112B14725FD2EAFA365E0ECEF4C5CAF7D08F35938280",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/AngelBIM-trazo-Revit2027-0.2.166.zip",
+      "name": "Trazo",
+      "id": "trazo",
+      "revitVersion": "2027",
+      "version": "0.2.166"
     }
   ],
   "hub": {
-    "version": "0.2.165",
-    "sha256": "CDFD85E518E7965432E5FA8BA287FCE3B727AA3A3B1C776C837D383F1F8B68F6",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/Instalar-AngelBIM-Hub-0.2.166.exe",
+    "version": "0.2.166",
+    "id": "hub",
     "name": "AngelBIM Hub",
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.165/Instalar-AngelBIM-Hub-0.2.165.exe",
-    "id": "hub"
+    "sha256": "9C48BFC4B8DC15FCE2FB6BA7F0DA6A98176F8994F93DEA783E5792DED1D7DC64"
   }
 }
