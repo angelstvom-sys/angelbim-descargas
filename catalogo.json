@@ -9,22 +9,22 @@
   "packs": [],
   "modules": [
     {
-      "sha256": "210CE749689EF65FFC5E2A789C84020D47E1EDAF145DC08359A3230C0D7A16AA",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.185/AngelBIM-colocacion-Revit2026-0.2.185.zip",
+      "sha256": "67E918370F446360F8F92D74146E9EFCC358C7F47327F05922119034E1135133",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/colocacion-v0.2.186/AngelBIM-colocacion-Revit2026-0.2.186.zip",
       "name": "Colocación masiva",
       "id": "colocacion",
       "revitVersion": "2026",
-      "version": "0.2.185",
-      "notes": "Iconos gris y dorado con proporciones uniformes en Revit y AngelBIM Hub."
+      "version": "0.2.186",
+      "notes": "Ventana fija más amplia, modos Familia única y Familia intercalada, miniaturas más grandes y esquema 2D con cantidad de instancias y separación."
     },
     {
-      "sha256": "195C48F149513F626410A30AAA395633CB4362D85B194D31FC0380A93239F596",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.185/AngelBIM-colocacion-Revit2027-0.2.185.zip",
+      "sha256": "521CB6D8FF4C9E0922D416D001774B065DDE5FDC05B9572071C63E1EF71EA8BF",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/colocacion-v0.2.186/AngelBIM-colocacion-Revit2027-0.2.186.zip",
       "name": "Colocación masiva",
       "id": "colocacion",
       "revitVersion": "2027",
-      "version": "0.2.185",
-      "notes": "Iconos gris y dorado con proporciones uniformes en Revit y AngelBIM Hub."
+      "version": "0.2.186",
+      "notes": "Ventana fija más amplia, modos Familia única y Familia intercalada, miniaturas más grandes y esquema 2D con cantidad de instancias y separación."
     },
     {
       "sha256": "D36391C8D4913AF2277D85105D6924FB462D5B4D295E09473F982A30D3F47F12",
