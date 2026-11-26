@@ -9,20 +9,20 @@
   "packs": [],
   "modules": [
     {
-      "sha256": "A27CAE907AB418BF4DB8D44F3D212A67C90885A7ECC22ECD1F3DEC889655FF8A",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/AngelBIM-colocacion-Revit2026-0.2.166.zip",
+      "sha256": "DB476DD40C1D033CD475198324D0258ADD55FBCC2A1B1D1CA506A53796FE6A0C",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.180/AngelBIM-colocacion-Revit2026-0.2.180.zip",
       "name": "Colocación masiva",
       "id": "colocacion",
       "revitVersion": "2026",
-      "version": "0.2.166"
+      "version": "0.2.180"
     },
     {
-      "sha256": "8FABD5ED233FC98DC7209AB57E6D77F0F51BE3DD5D879B1891E4677607BA311D",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/AngelBIM-colocacion-Revit2027-0.2.166.zip",
+      "sha256": "0A6E3D1014AE79D8FC1B5680AF6A5B3AB448DC5EBC0D40C0A21798A47E76AAD2",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.180/AngelBIM-colocacion-Revit2027-0.2.180.zip",
       "name": "Colocación masiva",
       "id": "colocacion",
       "revitVersion": "2027",
-      "version": "0.2.166"
+      "version": "0.2.180"
     },
     {
       "sha256": "8E83F9191E01CF7AB1D604AD9553D5D783D17D2165FCEF412979171429D41ECE",
@@ -57,20 +57,20 @@
       "version": "0.2.178"
     },
     {
-      "sha256": "505B074FB698D0CC765DED061CC917B715D103952EB556FB7964E6657A00D858",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/AngelBIM-plantas-Revit2026-0.2.166.zip",
+      "sha256": "D5872B1008FB07B50C0A9AEC289A1B59C2575D2873E9FED111A36A16F53004F9",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.180/AngelBIM-plantas-Revit2026-0.2.180.zip",
       "name": "Plantas tipo",
       "id": "plantas",
       "revitVersion": "2026",
-      "version": "0.2.166"
+      "version": "0.2.180"
     },
     {
-      "sha256": "035DD46C4A86963E3A1EF0CB8A88EECB470A5BC7D55B5EDF414F5284F2174605",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/AngelBIM-plantas-Revit2027-0.2.166.zip",
+      "sha256": "FFAF4CB04112F9C01674356818CBC3D85D1D357BB96F3A68377E0E79843BDBDE",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.180/AngelBIM-plantas-Revit2027-0.2.180.zip",
       "name": "Plantas tipo",
       "id": "plantas",
       "revitVersion": "2027",
-      "version": "0.2.166"
+      "version": "0.2.180"
     },
     {
       "sha256": "9691BCE02F1249B792FB5407901011FDFFC7E9DBB497B7EDF165198942F5D2CD",
@@ -106,10 +106,10 @@
     }
   ],
   "hub": {
-    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/hub-v0.2.166/Instalar-AngelBIM-Hub-0.2.166.exe",
-    "version": "0.2.166",
+    "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.180/Instalar-AngelBIM-Hub-0.2.180.exe",
+    "version": "0.2.180",
     "id": "hub",
     "name": "AngelBIM Hub",
-    "sha256": "9C48BFC4B8DC15FCE2FB6BA7F0DA6A98176F8994F93DEA783E5792DED1D7DC64"
+    "sha256": "8D71B85F8A2A0B92BB8171222568FCB8E2A7BE653A6166DA60300CBAC8697C67"
   }
 }
