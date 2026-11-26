@@ -9,22 +9,22 @@
   "packs": [],
   "modules": [
     {
-      "sha256": "ED1E1EBA91E710E67E8B4DA30E8687D0B7D7F69CC521B932EA83D2A7A3DF0CFD",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.187/AngelBIM-colocacion-Revit2026-0.2.187.zip",
+      "sha256": "54B174B5509475695F54477BBB464352358A18E5CE85A8331FC5EB4977318AED",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/colocacion-v0.2.191/AngelBIM-colocacion-Revit2026-0.2.191.zip",
       "name": "Colocación masiva",
       "id": "colocacion",
       "revitVersion": "2026",
-      "version": "0.2.187",
-      "notes": "Colocar familias tiene más espacio para los campos y las miniaturas. La vista previa indica la orientación de cada instancia."
+      "version": "0.2.191",
+      "notes": "Botón + Añadir junto al selector de familia. La forma de colocación, la separación y las filas de cuadrícula aparecen al comienzo del panel."
     },
     {
-      "sha256": "7BC86F324D3F4E722C1935CEA961371EFEC527736FFC9B1249EB72198B55E815",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.187/AngelBIM-colocacion-Revit2027-0.2.187.zip",
+      "sha256": "144335DA6002F6273AC38951F0E7A0094277DAFD93D1BFE99DBA9B862626CA03",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/colocacion-v0.2.191/AngelBIM-colocacion-Revit2027-0.2.191.zip",
       "name": "Colocación masiva",
       "id": "colocacion",
       "revitVersion": "2027",
-      "version": "0.2.187",
-      "notes": "Colocar familias tiene más espacio para los campos y las miniaturas. La vista previa indica la orientación de cada instancia."
+      "version": "0.2.191",
+      "notes": "Botón + Añadir junto al selector de familia. La forma de colocación, la separación y las filas de cuadrícula aparecen al comienzo del panel."
     },
     {
       "sha256": "DC8C0DB4723F2C2EA633BA6675F81564074320ACEE9F532E69613237871CD454",
