@@ -63,22 +63,22 @@
       "notes": "Iconos gris y dorado con proporciones uniformes en Revit y AngelBIM Hub."
     },
     {
-      "sha256": "308E6CCDBCF7A7AB5BA4B1E350F659A02AC73ED39C474E97BFFAC0EFFA8D900E",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.190/AngelBIM-plantas-Revit2026-0.2.190.zip",
+      "sha256": "FD0BEA3DBD6400D59983C5A60A0BDD3531E9432A6EAF8E3E56733BD5467FDDCE",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/plantas-v0.2.195/AngelBIM-plantas-Revit2026-0.2.195.zip",
       "name": "Plantas tipo",
       "id": "plantas",
       "revitVersion": "2026",
-      "version": "0.2.190",
-      "notes": "La vista de líneas dibuja bordes de la geometría de Revit y mejora el encuadre de los niveles."
+      "version": "0.2.195",
+      "notes": "Muestra todos los niveles de destino por elevación, incluso si todavía no tienen una vista de planta."
     },
     {
-      "sha256": "6A9CCDB8A4974B71A0B9C8CF2305D2569E0D6DFBE7609E5CC1C3DF7CC5F64FA4",
-      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/modulos-v0.2.190/AngelBIM-plantas-Revit2027-0.2.190.zip",
+      "sha256": "B7BB05E3D21F8BA62310532239FCED50433D57442AF5045828DF06864C15FD04",
+      "url": "https://github.com/angelstvom-sys/angelbim-descargas/releases/download/plantas-v0.2.195/AngelBIM-plantas-Revit2027-0.2.195.zip",
       "name": "Plantas tipo",
       "id": "plantas",
       "revitVersion": "2027",
-      "version": "0.2.190",
-      "notes": "La vista de líneas dibuja bordes de la geometría de Revit y mejora el encuadre de los niveles."
+      "version": "0.2.195",
+      "notes": "Muestra todos los niveles de destino por elevación, incluso si todavía no tienen una vista de planta."
     },
     {
       "sha256": "A950EBFF7FC8D53C4E9A43D454738B220AEE0FDEAB09F40B0C52BFB0CFA9583A",
